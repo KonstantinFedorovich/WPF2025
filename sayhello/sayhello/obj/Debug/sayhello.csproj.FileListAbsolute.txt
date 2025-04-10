@@ -1,0 +1,7 @@
+C:\Users\kosty\source\repos\sayhello\sayhello\obj\Debug\sayhello.csproj.AssemblyReference.cache
+C:\Users\kosty\source\repos\sayhello\sayhello\obj\Debug\sayhello.csproj.CoreCompileInputs.cache
+C:\Users\kosty\source\repos\sayhello\sayhello\bin\Debug\sayhello.exe.config
+C:\Users\kosty\source\repos\sayhello\sayhello\bin\Debug\sayhello.exe
+C:\Users\kosty\source\repos\sayhello\sayhello\bin\Debug\sayhello.pdb
+C:\Users\kosty\source\repos\sayhello\sayhello\obj\Debug\sayhello.exe
+C:\Users\kosty\source\repos\sayhello\sayhello\obj\Debug\sayhello.pdb
